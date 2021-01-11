@@ -5,4 +5,5 @@ O objetivo do projeto é montar um sistema de comunicação via rádio e impleme
 ## Edit
 Edit que fiz no terminal // Laís
 
-
+##Dificil
+tentando de novo
